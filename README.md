@@ -63,19 +63,4 @@ streamlit run main.py
 Your browser will automatically open with the running app.
 
 
----
 
-### How to Add This to GitHub
-
-After you've saved this text in your local `README.md` file:
-
-1.  **Go to your terminal** (make sure you are in the project folder).
-2.  **Add, commit, and push** the change:
-
-    ```bash
-    git add README.md
-    git commit -m "Updated the README file with setup instructions"
-    git push
-    ```
-
-Your new `README.md` will now be live on your GitHub repository.
